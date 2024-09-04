@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/kuvarji/kuvarji/blob/main/web.jpeg)
 <h1 align="center">Hi 👋, I'm Kuvarji Gupta</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
