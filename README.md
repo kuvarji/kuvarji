@@ -29,6 +29,6 @@
   <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kuvarji" alt="kuvarji" />
 </p>
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api?username=kuvarji&show_icons=true&locale=en" alt="kuvarji" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kuvarji&show_icons=true&locale=en" alt="kuvarji" /></p>
 
 
